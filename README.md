@@ -1,4 +1,4 @@
-# projectory-ae
+# Projectory Portal L.L.C
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-projectory-ae is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://projectory.ae/
+Projectory Portal L.L.C operates Projectory, a UAE‑based off‑plan property platform that aggregates new real‑estate launches, developer data, market insights and public transaction records. It helps buyers compare projects, payment plans and handover dates across Dubai, Abu Dhabi and Ras Al Khaimah, providing transparent information and advertising for over 600 listings from 100+ developers.
+
+**Areas:** Real Estate · Property Listings · UAE · Off-Plan · Marketplace
+
+## Projectory Portal L.L.C on APIs.io
+
+Everything profiled for Projectory Portal L.L.C is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/projectory-ae/](https://apis.io/providers/projectory-ae/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Projectory Portal L.L.C Health API](https://apis.io/apis/projectory-ae/projectory-ae-health-api/) — The Health API from Projectory Portal L.L.C — 1 operation(s) for health.
+- [Projectory Portal L.L.C Openapi.json API](https://apis.io/apis/projectory-ae/projectory-ae-openapi-json-api/) — The Openapi.json API from Projectory Portal L.L.C — 1 operation(s) for openapi.json.
+- [Projectory Portal L.L.C Projectory Public API](https://apis.io/apis/projectory-ae/projectory-ae-projectory-public-api-api/) — The Projectory Public API API from Projectory Portal L.L.C — 1 operation(s) for projectory public api.
+- [Projectory Portal L.L.C Projects API](https://apis.io/apis/projectory-ae/projectory-ae-projects-api/) — The Projects API from Projectory Portal L.L.C — 2 operation(s) for projects.
+- [Projectory Portal L.L.C Ready API](https://apis.io/apis/projectory-ae/projectory-ae-ready-api/) — The Ready API from Projectory Portal L.L.C — 1 operation(s) for ready.
+- [Projectory Portal L.L.C Robots.txt API](https://apis.io/apis/projectory-ae/projectory-ae-robots-txt-api/) — The Robots.txt API from Projectory Portal L.L.C — 1 operation(s) for robots.txt.
+- [Projectory Portal L.L.C Transactions API](https://apis.io/apis/projectory-ae/projectory-ae-transactions-api/) — The Transactions API from Projectory Portal L.L.C — 1 operation(s) for transactions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Projectory Portal L.L.C Agentic Access](https://apis.io/agentic-access/projectory-ae/projectory-ae-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [ApiIndex](https://apis.io/schemas/projectory-ae/projectory-ae-api-index/)
+- [HealthResponse](https://apis.io/schemas/projectory-ae/projectory-ae-health-response/)
+- [ProjectDetail](https://apis.io/schemas/projectory-ae/projectory-ae-project-detail/)
+- [ProjectListResponse](https://apis.io/schemas/projectory-ae/projectory-ae-project-list-response/)
+- [TransactionListResponse](https://apis.io/schemas/projectory-ae/projectory-ae-transaction-list-response/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Projectory Portal L.L.C API Rules](https://apis.io/rules/projectory-ae/projectory-ae-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Projectory Portal L.L.C Domain Security](https://apis.io/security/projectory-ae/projectory-ae-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://projectory.ae/)
+- [Getting started](https://projectory.ae/mcp/)
+- [API reference](https://projectory.ae/llms.txt)
+- [Terms of service](https://projectory.ae/terms-of-use/)
+- [Privacy policy](https://projectory.ae/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 37.5** — thin · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 45.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 24.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/projectory-ae/](https://apis.io/providers/projectory-ae/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Projectory Portal L.L.C: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/projectory-ae/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
